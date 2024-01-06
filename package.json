@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "scripts": {
+    "dev": "node --max_old_space_size=6400 pwg.js"
+  },
+  "dependencies": {
+    "yarn": "^1.22.21"
+  }
+}
